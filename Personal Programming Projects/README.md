@@ -10,6 +10,8 @@ This repository holds all of my projects that I've done as a programmer. Categor
 
   1. Python
      - [Data Science](https://github.com/gerardolujanhdz/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python)
-    
+
+## Contact Information
+
 - Email : glujanh@emory.edu
 - LinkedIn : https://www.linkedin.com/in/gerardolujanhdz/
