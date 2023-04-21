@@ -1,6 +1,6 @@
 # Gerardo Lujan Hernandez - Projects Portfolio
 
-##Index
+## Index
 
 This repository holds all of my personal projects that I've done. They are categorized into 2 different categories.
 
