@@ -9,7 +9,7 @@ This repository holds all of my projects that I've done as a programmer. Categor
 ### Index
 
   1. Python
-     - Data Science
+     - [Data Science] (https://pages.github.com/)
     
 - Email : glujanh@emory.edu
 - LinkedIn : https://www.linkedin.com/in/gerardolujanhdz/
