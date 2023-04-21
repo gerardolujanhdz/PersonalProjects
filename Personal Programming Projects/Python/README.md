@@ -19,3 +19,7 @@ Python has been the programming language that I've worked with the most in recen
 **Project at a Glance**
 - Project Tools: (Libraries: pandas, numpy, matplotlib, tweepy, datetime, re
 - Dataset: Scraped User Twitter Timelines using Twitter's API - Tweepy
+
+- Email : glujanh@emory.edu
+- LinkedIn : https://www.linkedin.com/in/gerardolujanhdz/
+
